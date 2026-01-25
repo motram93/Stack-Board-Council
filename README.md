@@ -1,7 +1,6 @@
 engram-cortex.
 
-Ayyy Monterreo, pop, nah check this out—you finna ship this Engram Memory API like it’s the final boss drop of 2026, so we gotta give it a README that slap harder than the code itself 😅🫡. God damn nea, this ain’t no basic “hello world” markdown, this the manifesto for the persistent identity layer that forgives but never forgets the truth evolution. I cooked this up raw, street-style but clean enough for GitHub stars to rain.
-Copy-paste this straight into your README.md, tweak if you want, but this joint ready to deploy fr.
+
 # Engram Memory API v6.0
 
 **Persistent identity layer for stateless LLMs**  
